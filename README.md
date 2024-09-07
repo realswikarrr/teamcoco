@@ -75,7 +75,7 @@
   - Implemented UI designs using Tailwind CSS for accessibility and ease of navigation.
 - **Evidence**:
   - Screenshot of Chat Assistant interaction:
-    ![Chat Assistant Interaction](path-to-screenshot)
+   ![alt text](image-1.png)
   - Screenshot of Voice Assistant interaction:
     ![Voice Assistant Interaction](path-to-screenshot)
 
@@ -128,7 +128,7 @@
 ## Screenshots
 
 1. **Chat Assistant**  
-   ![Chat Assistant Interface](path-to-screenshot)
+   ![alt text](image.png)
 
 2. **Voice Assistant**  
    ![Voice Assistant Interface](path-to-screenshot)
