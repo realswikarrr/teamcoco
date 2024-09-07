@@ -143,7 +143,7 @@ export default function VoiceAssistant() {
     <>
       <header className="bg-white border-b">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
-          <Link className="flex items-center space-x-2" href="#">
+          <Link className="flex items-center space-x-2" href="/">
             <span className="font-bold text-xl text-primary">AusTaxAI</span>
           </Link>
 

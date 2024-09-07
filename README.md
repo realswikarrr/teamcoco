@@ -77,7 +77,7 @@
   - Screenshot of Chat Assistant interaction:
    ![alt text](image-1.png)
   - Screenshot of Voice Assistant interaction:
-    ![Voice Assistant Interaction](path-to-screenshot)
+    ![alt text](image-2.png)
 
 ### Week 3: Testing and Error Handling
 - **Goal**: Ensure error handling, user input validation, and secure API interaction.
@@ -131,7 +131,7 @@
    ![alt text](image.png)
 
 2. **Voice Assistant**  
-   ![Voice Assistant Interface](path-to-screenshot)
+   ![alt text](image-3.png)
 
 ## Error Handling
 
