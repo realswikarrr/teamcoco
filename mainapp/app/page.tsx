@@ -1,9 +1,9 @@
-import ChatCompletion from "@/components/ChatCompletion";
+import LandingPageOption3 from "@/components/LandingPage";
 
 export default function Home() {
   return (
     <div>
-      <ChatCompletion />
+      <LandingPageOption3 />
     </div>
   );
 }
