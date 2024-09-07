@@ -17,6 +17,7 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Footer from "@/components/Footer";
 import Link from "next/link";
+import LoadingBubble from "@/components/LoadingBubble"; // Import the new component
 
 type Message = {
   role: "user" | "assistant";
@@ -127,8 +128,13 @@ export default function ChatComponent() {
                 </div>
               </motion.div>
             ))}
+            {mutation.isLoading && (
+              <div className="text-center mt-4">
+                <LoadingBubble />
+              </div>
+            )}
           </ScrollArea>
-          <div className="flex  max-w-sm  w-screen flex-col space-y-2">
+          <div className="flex max-w-sm w-screen flex-col space-y-2">
             <Select value={language} onValueChange={setLanguage}>
               <SelectTrigger className="w-full">
                 <SelectValue placeholder="Select Language" />
