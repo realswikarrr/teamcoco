@@ -9,17 +9,29 @@
 **AusTaxAI** is an AI-powered voice and chat assistant built to provide disabled individuals with real-time, AI-generated information regarding Australian taxation and superannuation. This application supports multiple languages, making it accessible to a diverse population, including vulnerable communities such as migrants and the elderly.
 
 ## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Tech Stack](#tech-stack)
-- [Work Progress and Evidence](#work-progress-and-evidence)
-- [Components Overview](#components-overview)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Error Handling](#error-handling)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+- [AusTaxAI - AI-Powered Australian Taxation Assistant for Disabled Communities](#austaxai---ai-powered-australian-taxation-assistant-for-disabled-communities)
+    - [**GovHack 2024 Submission**](#govhack-2024-submission)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Tech Stack](#tech-stack)
+  - [Work Progress and Evidence](#work-progress-and-evidence)
+    - [Initial Research and Idea Validation](#initial-research-and-idea-validation)
+    - [Core Development](#core-development)
+    - [Testing and Error Handling](#testing-and-error-handling)
+    - [Final Touches and Documentation](#final-touches-and-documentation)
+  - [Components Overview](#components-overview)
+    - [`ChatComponent.tsx`](#chatcomponenttsx)
+    - [`VoiceAssistant.tsx`](#voiceassistanttsx)
+    - [`LandingPage.tsx`](#landingpagetsx)
+  - [Usage](#usage)
+    - [Chat Assistant](#chat-assistant)
+    - [Voice Assistant](#voice-assistant)
+  - [Screenshots](#screenshots)
+  - [Error Handling](#error-handling)
+  - [Future Enhancements](#future-enhancements)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Features
 
@@ -64,12 +76,12 @@
 
 ## Work Progress and Evidence
 
-### Week 1: Initial Research and Idea Validation
+###  Initial Research and Idea Validation
 - **Goal**: To define the core features and evaluate the feasibility of the project.
 - **Progress**: Researched existing solutions for taxation information systems in Australia, particularly focusing on accessibility for disabled users. Developed a plan to integrate multilingual support and voice assistance for a wide range of users.
 - **Outcome**: The decision to use OpenAI’s GPT-4 API for providing accurate, multilingual information about Australian tax and superannuation.
 
-### Week 2: Core Development
+###  Core Development
 - **Goal**: Build basic chat and voice functionality using GPT-4 API and implement the UI components for voice and chat interaction.
 - **Progress**: 
   - Created a React-based app with two main components: Chat and Voice Assistant.
@@ -82,7 +94,7 @@
   - Screenshot of Voice Assistant interaction:
     ![alt text](image-2.png)
 
-### Week 3: Testing and Error Handling
+###  Testing and Error Handling
 - **Goal**: Ensure error handling, user input validation, and secure API interaction.
 - **Progress**: 
   - Integrated validation for API failures and implemented fallback responses for better user experience.
@@ -92,7 +104,7 @@
   - Console logs showing API errors being caught and handled effectively.
   - Video demonstration of the Voice Assistant recognizing commands and responding.
 
-### Week 4: Final Touches and Documentation
+###  Final Touches and Documentation
 - **Goal**: Complete project, polish UI, and finalize documentation for GovHack submission.
 - **Progress**:
   - Finalized the frontend design, added animations for a better user experience.
