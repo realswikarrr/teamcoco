@@ -1,6 +1,8 @@
 
 # AusTaxAI - AI-Powered Australian Taxation Assistant for Disabled Communities
 
+                ![alt text](<DALL·E 2024-09-08 10.58.16 - Create a modern logo using abstract geometric shapes to represent AI and finance, without any text. The design should maintain a clean, minimalistic l.webp>)
+
 ### **GovHack 2024 Submission**
 
 **AusTaxAI** is an AI-powered voice and chat assistant built to provide disabled individuals with real-time, AI-generated information regarding Australian taxation and superannuation. This application supports multiple languages, making it accessible to a diverse population, including vulnerable communities such as migrants and the elderly.
