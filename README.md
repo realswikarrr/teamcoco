@@ -1,7 +1,8 @@
 
 # AusTaxAI - AI-Powered Australian Taxation Assistant for Disabled Communities
 
-                ![alt text](<DALL·E 2024-09-08 10.58.16 - Create a modern logo using abstract geometric shapes to represent AI and finance, without any text. The design should maintain a clean, minimalistic l.webp>)
+    
+   ![alt text](logo.webp)
 
 ### **GovHack 2024 Submission**
 
