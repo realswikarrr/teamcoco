@@ -1,15 +1,15 @@
 
-# AusTaxAI - AI-Powered Australian Taxation Assistant for Disabled Communities
+# EquiTax AI - Taxation Made Equal
 
     
    ![alt text](logo.webp)
 
 ### **GovHack 2024 Submission**
 
-**AusTaxAI** is an AI-powered voice and chat assistant built to provide disabled individuals with real-time, AI-generated information regarding Australian taxation and superannuation. This application supports multiple languages, making it accessible to a diverse population, including vulnerable communities such as migrants and the elderly.
+**EquiTax AI** is an AI-powered voice and chat assistant built to provide disabled individuals with real-time, AI-generated information regarding Australian taxation and superannuation. This application supports multiple languages, making it accessible to a diverse population, including vulnerable communities such as migrants and the elderly.
 
 ## Table of Contents
-- [AusTaxAI - AI-Powered Australian Taxation Assistant for Disabled Communities](#austaxai---ai-powered-australian-taxation-assistant-for-disabled-communities)
+- [EquiTax AI - Taxation Made Equal](#equitax-ai---taxation-made-equal)
     - [**GovHack 2024 Submission**](#govhack-2024-submission)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
